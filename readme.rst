@@ -1,4 +1,4 @@
-[![MySQL]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJcmIUi3v-v5-y1ZcdVIKVie5vLjHelMHBluvlOj0bDTLgpWh)](https://www.mysql.com/)
+[![MySQL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJcmIUi3v-v5-y1ZcdVIKVie5vLjHelMHBluvlOj0bDTLgpWh)](https://www.mysql.com/)
 
 ###################
 What is CodeIgniter
